@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 2/fraction.cpp
+fraction.h
+/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 2/fraction.h
+
+/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 2/fraction.h
+iostream
+-
+

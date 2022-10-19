@@ -1,0 +1,57 @@
+/home/mohamed/Downloads/CLion-2021.2.2/clion-2021.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 8/Problem 8(Code)"
+CMake Error: Could not find cmake module file: CMakeDetermine(Compiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_(_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_(_COMPILER
+CMake Error: Could not find cmake module file: /media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 8/Problem 8(Code)/cmake-build-debug/CMakeFiles/3.20.2/CMake(Compiler.cmake
+CMake Error: Could not find cmake module file: CMakeDetermineCodeCompiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_Code_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_Code_COMPILER
+CMake Error: Could not find cmake module file: /media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 8/Problem 8(Code)/cmake-build-debug/CMakeFiles/3.20.2/CMakeCodeCompiler.cmake
+CMake Error: Could not find cmake module file: CMakeDetermine)Compiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_)_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_)_COMPILER
+CMake Error: Could not find cmake module file: /media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 8/Problem 8(Code)/cmake-build-debug/CMakeFiles/3.20.2/CMake)Compiler.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_(_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_(_COMPILER to the full path to the compiler, or to the compiler name
+  if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMake(Information.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_Code_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_Code_COMPILER to the full path to the compiler, or to the compiler
+  name if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMakeCodeInformation.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_)_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_)_COMPILER to the full path to the compiler, or to the compiler name
+  if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMake)Information.cmake
+CMake Error: CMAKE_(_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_Code_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_)_COMPILER not set, after EnableLanguage
+-- Configuring incomplete, errors occurred!
+See also "/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 8/Problem 8(Code)/cmake-build-debug/CMakeFiles/CMakeOutput.log".

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Probelm_7.dir/main.cpp.o -o Probelm_7 

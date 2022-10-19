@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 3/Matrix.cpp
+Matrix.h
+/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 3/Matrix.h
+
+/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 3/Matrix.h
+string
+-
+iostream
+-
+bits/stdc++.h
+-
+
+/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 3/Matrix_Calculator.cpp
+Matrix_Calculator.h
+/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 3/Matrix_Calculator.h
+
+/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 3/Matrix_Calculator.h
+iostream
+-
+Matrix.h
+/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 3/Matrix.h
+
+/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 3/main.cpp
+iostream
+-
+Matrix.h
+/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 3/Matrix.h
+Matrix.cpp
+/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 3/Matrix.cpp
+Matrix_Calculator.h
+/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 3/Matrix_Calculator.h
+Matrix_Calculator.cpp
+/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 3/Matrix_Calculator.cpp
+
