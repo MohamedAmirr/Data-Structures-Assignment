@@ -1,3 +1,0 @@
-/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/media/mohamed/HDD/kolyaaaa3/Data Structure/Assignment 1/Problem 1/cmake-build-debug/CMakeFiles/untitled2.dir
